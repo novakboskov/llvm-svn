@@ -210,7 +210,7 @@ build() {
         "../${_pkgname}"
 
     make
-    make ocaml_doc
+    # make ocaml_doc
 }
 
 check() {
